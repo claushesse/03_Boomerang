@@ -1,0 +1,1 @@
+[0:v]scale=0.5*iw:0.5*ih, crop=510:510[conv]
