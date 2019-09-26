@@ -1,5 +1,5 @@
 ;----------------------------------------------------------------------------------
-; Written by MartuC y ClausH.
+; Written by ClausH.
 ;----------------------------------------------------------------------------------
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
